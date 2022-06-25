@@ -1,0 +1,7 @@
+
+Ill-formed identifiers:
+
+snake_case
+quick_fox
+1stCharacter
+

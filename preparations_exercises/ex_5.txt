@@ -1,0 +1,28 @@
+substring
+  String.prototype.substring()
+  -> Prototpye (instance)
+
+create
+  Object.create()
+  -> Static (constructor)
+
+fromCharCode
+  String.fromCharCode()
+  -> Static (constructor)
+
+slice
+  Array.prototype.slice()
+  -> Prototype (instance)
+  String.prototype.slice()
+  -> Prototype (instance)
+
+toString
+  Object.prototype.toString()
+  -> Prototype (instance)
+  Number.prototype.toString()
+  -> Prototype (instance)
+  Function.prototype.toString()
+  -> Prototype (instance)
+  Array.prototype.toString()
+  -> Prototype (instance)
+

@@ -1,0 +1,5 @@
+Well-name variables:
+
+index
+lazyDog
+operand2

@@ -1,0 +1,4 @@
+Well-formed constants:
+
+BIG_NUMBER
+
