@@ -3,5 +3,5 @@ Well-formed function names:
 index
 CatName
 lazyDog
-BIG_NUMBER
+operand2
 
